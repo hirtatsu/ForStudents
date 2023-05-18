@@ -73,4 +73,4 @@
 ### 雑誌会担当
 -
 ## その他
-### [ポスターの印刷方法](./PosterPrint/README.md)
+### [学会発表用ポスターの印刷方法](./PosterPrint/README.md)
