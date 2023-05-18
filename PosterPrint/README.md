@@ -4,6 +4,7 @@
 
 設置プリンターは以下の2機種
 - SureColor P8050 (EPSON)　※新しい方、おすすめ
+    - [ユーザーガイド](https://www2.epson.jp/support/manual/CMP0044_05.PDF)
 - MAXART K3 (EPSON)　※古い方
 
 管理者は高橋(誠)先生
