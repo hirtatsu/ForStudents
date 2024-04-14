@@ -59,7 +59,8 @@
     - Conclusion
     - Tables and Figures（すべて）
 - 終わったら
-  -  ![雑誌会 Upload Article Information 用 QR コード](https://github.com/hirtatsu/ForStudents/assets/64639043/f334ded1-fb27-4c45-82dd-36ec08af9d1a)
+  -  ![雑誌会 Upload Article Information 用 QR コード](https://github.com/hirtatsu/ForStudents/assets/64639043/f27303ed-2aee-4b44-ac48-184647f6758a)
+
 
 
 ### 物品を購入したいとき
