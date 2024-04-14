@@ -59,8 +59,8 @@
     - Conclusion
     - Tables and Figures（すべて）
 - 終わったら
-  - 論文PDFデータを研究室のNASに保存する
-  - 雑誌会の発表リストに、自分の発表した資料の情報を記入する
+![雑誌会 用 QR コード](https://github.com/hirtatsu/ForStudents/assets/64639043/74a5ac40-e363-43ab-b371-82c10baeb8f9)
+
 
 ### 物品を購入したいとき
 ![17e7ba0f-6e13-4094-b8c8-5733d1282f8c](https://user-images.githubusercontent.com/64639043/230261152-4b36b8de-96fc-46f0-8588-94916da2b876.jpg)
