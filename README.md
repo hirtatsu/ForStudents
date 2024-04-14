@@ -16,8 +16,8 @@
 ### (4) PCの初期設定（学生が対応）
 日頃の連絡はTeamsとメールを併用します。両方設定するように。
 - メールアドレスは、OUメール（(姓).(名).xxx@ecs.osaka-u.ac.jp）の使用を推奨。確認の仕方はこちら　→　[リンク](https://www.cmc.osaka-u.ac.jp/edu/mailalias.pdf)
-- メール環境の準備
-- Teams環境の準備
+- メール環境の準備 -> [リンク](https://www.cmc.osaka-u.ac.jp/edu/others/webmail.php/OUmail_setup.pdf)
+- Teams環境の準備 -> [リンク](https://icho2.sharepoint.com/sites/icho-portal/SitePages/%E5%AD%A6%E7%94%9F%E3%82%92%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB%E5%8A%A0%E3%81%88%E3%82%8B.aspx)
 - OfficeへのサインインとActivate
 
 
