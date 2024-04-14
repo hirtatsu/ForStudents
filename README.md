@@ -9,8 +9,8 @@
 - プリンタのドライバのインストール
 
 ### (3) 各種アカウント作成（教員が対応）
-- OUメールの微細接合学分野メーリングリストへの追加
-- Teamsの研究室チームへの招待
+- OUメールの微細接合学分野メーリングリストへの追加 -> [リンク](https://icho2.sharepoint.com/sites/icho-portal/SitePages/%E3%83%A1%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AA%E3%82%B9%E3%83%88%E7%94%B3%E8%AB%8B.aspx)
+- Teamsの研究室チームへの招待 -> [リンク](https://icho2.sharepoint.com/sites/icho-portal/SitePages/%E5%AD%A6%E7%94%9F%E3%82%92%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB%E5%8A%A0%E3%81%88%E3%82%8B.aspx)
 - 研究室のNASのアクセス権付与
 
 ### (4) PCの初期設定（学生が対応）
