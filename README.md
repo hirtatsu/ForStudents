@@ -58,7 +58,7 @@
     - Abstract
     - Conclusion
     - Tables and Figures（すべて）
-- 終わったら
+- 終わったら -> [リンク](https://forms.office.com/Pages/ResponsePage.aspx?id=4I7Qo5BbM0-dFJYCO7eKYisUzAxordZApnJwu1dajehUMExYRUxIUUpSTEFIMVJMQTRPQ01CWUxNMiQlQCN0PWcu)
   -  ![雑誌会 Upload Article Information 用 QR コード](https://github.com/hirtatsu/ForStudents/assets/64639043/f27303ed-2aee-4b44-ac48-184647f6758a)
 
 
