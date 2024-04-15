@@ -58,9 +58,7 @@
     - Abstract
     - Conclusion
     - Tables and Figures（すべて）
-- 終わったら -> [リンク](https://forms.office.com/Pages/ResponsePage.aspx?id=4I7Qo5BbM0-dFJYCO7eKYisUzAxordZApnJwu1dajehUMExYRUxIUUpSTEFIMVJMQTRPQ01CWUxNMiQlQCN0PWcu)
-  -  ![雑誌会 Upload Article Information 用 QR コード](https://github.com/hirtatsu/ForStudents/assets/64639043/f27303ed-2aee-4b44-ac48-184647f6758a)
-
+- 終わったら -> [リンク](https://teams.microsoft.com/l/entity/26bc2873-6023-480c-a11b-76b66605ce8c/_djb2_msteams_prefix_131430302?context=%7B%22channelId%22%3A%2219%3Adb5663e1494349dc83920f256e60a070%40thread.tacv2%22%7D&tenantId=a3d08ee0-5b90-4f33-9d14-96023bb78a62)
 
 
 ### 物品を購入したいとき
